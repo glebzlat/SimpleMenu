@@ -1,4 +1,4 @@
-[PROJECT_PHOTO](https://github.com/edKotinsky/SimpleMenu/blob/main/proj_img.png)
+[!(https://github.com/edKotinsky/SimpleMenu/blob/main/proj_img.png)]
 
 #Меню на LCD дисплее
 * [Описание](#chapter-0)
