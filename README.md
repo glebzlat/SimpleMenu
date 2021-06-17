@@ -1,4 +1,5 @@
 ![PROJECT_PHOTO](https://github.com/edKotinsky/SimpleMenu/blob/main/proj_img.jpg)
+
 #Меню на LCD дисплее
 * [Описание](#chapter-0)
 * [Функционал](#chapter-1)
