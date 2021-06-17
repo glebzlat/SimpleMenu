@@ -1,0 +1,36 @@
+
+#MenuLCD v2.2
+
+SimpleMenu	KEYWORD1
+simpleMenu	KEYWORD1
+menuStruct	KEYWORD1
+
+control		KEYWORD2
+mainDisplay	KEYWORD2
+getPointVal	KEYWORD2
+attachWarning	KEYWORD2
+detachWarning	KEYWORD2
+functionToCall	KEYWORD2
+showValue	KEYWORD2
+attachPoint	KEYWORD2
+detachPoint	KEYWORD2
+
+MENU_points	LITERAL1
+MENU_structNum	LITERAL1
+LCD_cols	LITERAL1
+LCD_rows	LITERAL1
+
+MENU_detachPoints	LITERAL1
+
+EEMENU_nextFree	LITERAL1
+
+MENU_pointType_SETVAL	LITERAL1
+MENU_pointType_SELECT	LITERAL1
+MENU_pointType_VIEWONLY	LITERAL1
+MENU_pointType_FUNCTIONCALLER	LITERAL1
+
+
+pTYPE_setVal	LITERAL1
+pTYPE_select	LITERAL1
+pTYPE_view	LITERAL1
+pTYPE_caller	LITERAL1
